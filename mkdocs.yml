@@ -1,0 +1,98 @@
+site_name: OldNeal Bot Wiki
+
+docs_dir: sourse
+site_dir: docs
+site_url: https://mrblackov.github.io/
+
+nav:
+  - 🏠 Главная: index.md
+  - 🏁 Быстрый старт: start.md
+  - 🃏 Потусторонние: beyonder/base.md
+  - 🏛️ Организации: 
+    - 🏠 Основное: organ/main.md
+    - ⛩️ Стать участником: organ/start.md
+    - 🏯 Моя Организация: organ/myorgan.md
+    - 🎎 Участники: organ/members.md
+  - 📚 Wiki по путям: wiki/base.md
+  - 📟 Команды: cmd/base.md
+  - 📋 Версии: version.md
+
+theme:
+  name: material
+  language: ru
+  features:
+    # === ФУНКЦИИ ПОИСКА ===
+    - search.suggest          # Предложения при вводе
+    - search.highlight        # Подсветка совпадений
+    - search.share            # Кнопка "Поделиться результатами"
+    
+    # === НАВИГАЦИЯ ===
+    - navigation.tabs         # Вкладки на верхней панели
+    - navigation.sections     # Секции в боковой навигации
+    - navigation.tracking     # Отслеживание позиции
+    - navigation.expand       # Раскрытая навигация
+    - navigation.top          # Кнопка "Наверх"
+    - navigation.instant
+    
+    # === ОГЛАВЛЕНИЕ ===
+    - toc.integrate           # Интеграция оглавления в навигацию
+    - toc.follow              # Следование за прокруткой
+    
+    # === КОД ===
+    - content.code.copy       # Кнопка копирования кода
+    - content.code.annotate   # Аннотации в коде
+    
+    # === ДРУГОЕ ===
+    - announce.dismiss        # Возможность закрыть анонс
+    - header.autohide         # Скрытие шапки при прокрутке
+
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Тёмный режим
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Светлый режим
+
+extra: 
+  copyright: "© Телеграм бот по Повелителю тайн."
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/OldNeal
+      name: Исходный код на GitHub 
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/oldneal
+      name: Газета Старого Нила
+
+plugins:
+  - search:                    # Встроенный поиск MkDocs
+      lang: ru                 # Язык поиска
+      separator: '[\s\-]+'     # Разделитель слов
+  - glightbox:
+      effect: zoom           # эффект открытия: zoom, fade, none
+      slide_effect: slide    # эффект переключения: slide, zoom, fade, none
+      loop: true            # зацикливание галереи
+      zoomable: true         # можно ли зумить изображение
+      draggable: true        # можно ли перетаскивать мышкой
+      auto_caption: true     # автоматически показывать alt-текст как подпись
+      caption_position: bottom  # положение подписи: bottom, top, left, right
+      width: auto            # ширина лайтбокса
+      height: auto           # высота
+  - include-markdown:
+      cache_dir: ".cache/includes"
+
+markdown_extensions:
+  - attr_list  
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.details
+  
+extra_css:
+  - stylesheets/extra.css
