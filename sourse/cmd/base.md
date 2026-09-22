@@ -1,41 +1,41 @@
 
- - `/info` - 💳 Получить карточку
+ - `/info` - [💳 Получить карточку](../beyonder/base.md#info)
+ 
+
+
+ - `/drink {название пути}` - [🧪 Выпить зелье указанного пути](../beyonder/base.md#drink)
+ 
+ - `/upseq` - [🔝 Продвинуться](../beyonder/base.md#upseq)
+ 
+ - `/time` - [⌛ Узнать дату продвижения](../beyonder/base.md#upseq)
+ 
+ - `/kill` - [☠️ Потерять контроль](../beyonder/base.md#kill)
+ 
+
+
+ - `/organ` - [🏛️ Меню организаций](../organ/main.md#info)
+ 
+ - `/member` - [🎎 Меню участника](../organ/members.md#member)
+ 
+ - `/uprank` - [🔼 Поднять ранг](../organ/members.md#rank)
+ 
+ - `/downrank` - [🔽 Понизить ранг](../organ/members.md#rank)
+ 
+ - `/titul` - [🎖️ Изменить титул участника](../organ/members.md#titul)
  
 
 
 
- - `/drink {название пути}` - 🧪 Выпить зелье указанного пути
+ - `/path` - [📜 Информация о путях](../beyonder/wiki.md#path)
  
- - `/upseq` - 🔝 Продвинуться
- 
- - `/time` - ⌛ Узнать дату продвижения
- 
- - `/kill` - ☠️ Потерять контроль
- 
-
-
- - `/organ` - 🏛️ Меню организаций
- 
- - `/member` - 🎎 Меню участника
- 
- - `/uprank` - 🔼 Поднять ранг
- 
- - `/downrank` - 🔽 Понизить ранг
- 
- - `/titul` - 🎖️ Изменить титул участника
+ - `/ga` - [📜 Информация о ВД](../beyonder/wiki.md#ga)
  
 
 
 
- - `/path` - 📜 Информация о путях
+ - `/stats` - [📊 Получить статистику](../another/base.md#stats)
  
- - `/ga` - 📜 Информация о ВД
+ - `/help` - [📚 Получить справку](../another/base.md#help)
  
-
-
-
- - `/stats` - 📊 Получить статистику
- 
- - `/help` - 📚 Получить справку
- 
+ - `/emodzi {эиодзи}` - [😀 Получить ID кастомного эмодзи](../another/base.md#emodzi)
  

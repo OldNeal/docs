@@ -15,8 +15,9 @@ nav:
     - ⛩️ Стать участником: organ/start.md
     - 🏯 Моя Организация: organ/myorgan.md
     - 🎎 Участники: organ/members.md
+  - 🔰 Другое: another/base.md
   - 📟 Команды: cmd/base.md
-  - 📋 Версии: version.md
+  - 🎉 Релиз: version.md
 
 theme:
   name: material
