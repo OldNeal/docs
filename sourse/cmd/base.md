@@ -25,6 +25,7 @@
  
 
 
+ - `/wiki` - [📚 Вики-меню](../beyonder/wiki.md#wiki)
 
  - `/path` - [📜 Информация о путях](../beyonder/wiki.md#path)
  

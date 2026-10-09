@@ -9,7 +9,7 @@ nav:
   - 🏁 Быстрый старт: start.md
   - 🃏 Потусторонние: 
     - 🏠 Основное: beyonder/base.md
-    - 📚 Названия: beyonder/wiki.md
+    - 📚 Вики: beyonder/wiki.md
   - 🏛️ Организации: 
     - 🏠 Основное: organ/main.md
     - ⛩️ Стать участником: organ/start.md
@@ -17,7 +17,7 @@ nav:
     - 🎎 Участники: organ/members.md
   - 🔰 Другое: another/base.md
   - 📟 Команды: cmd/base.md
-  - 🎉 Релиз: version.md
+  - 🎉 Новая версия: version.md
 
 theme:
   name: material
