@@ -25,7 +25,17 @@
  
 
 
- - `/wiki` - [📚 Вики-меню](../beyonder/wiki.md#wiki)
+ - `/newspaper` - [📰 Меню газет](../newspaper/main.md)
+ 
+ - `/sub {id}` - [🔔 Подписаться на газету](../newspaper/readers.md#subscribe)
+ 
+ - `/unsub {id}` - [🔕 Отписаться от газеты](../newspaper/readers.md#subscribe)
+ 
+ - `/notify {id}` - [📣 Уведомить читателей газеты](../newspaper/editors.md#notify)
+ 
+
+ 
+ - `/wiki` - [📚 Вики-меню](../beyonder/wiki.md#menu)
 
  - `/path` - [📜 Информация о путях](../beyonder/wiki.md#path)
  

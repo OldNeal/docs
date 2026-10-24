@@ -13,8 +13,13 @@ nav:
   - 🏛️ Организации: 
     - 🏠 Основное: organ/main.md
     - ⛩️ Стать участником: organ/start.md
-    - 🏯 Моя Организация: organ/myorgan.md
-    - 🎎 Участники: organ/members.md
+    - 🏯 Управление организацией: organ/myorgan.md
+    - 🎎 Упраление участниками: organ/members.md
+  - 📰 Газеты:
+    - 🏠 Основное: newspaper/main.md
+    - ✒️ Для редакторов: newspaper/editors.md
+    - 📝 Для авторов: newspaper/author.md
+    - 🗞 Для читателей: newspaper/readers.md
   - 🔰 Другое: another/base.md
   - 📟 Команды: cmd/base.md
   - 🎉 Новая версия: version.md

@@ -15,4 +15,5 @@
    - [Продвигаться по последовательностям](./beyonder/base.md#upseq)
    - [Войти в организацию](./organ/start.md#login)
    - [Cоздать организацию](./organ/start.md#create)
+   - [Найти газету и подписаться](./newspaper/main.md#search)
    - [Посмотреть названия ВД и путей](./beyonder/wiki.md)
