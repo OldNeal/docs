@@ -1,9 +1,12 @@
 
  - `/info` - [💳 Получить карточку](../beyonder/base.md#info)
  
+ - `/menu` - [🧭 Открыть главное меню](../another/base.md#menu)
 
 
  - `/drink {название пути}` - [🧪 Выпить зелье указанного пути](../beyonder/base.md#drink)
+ 
+ - `/beyonder` - [🧪 Карточка потустороннего](../beyonder/base.md#info)
  
  - `/upseq` - [🔝 Продвинуться](../beyonder/base.md#upseq)
  
@@ -15,7 +18,7 @@
 
  - `/organ` - [🏛️ Меню организаций](../organ/main.md#info)
  
- - `/member` - [🎎 Меню участника](../organ/members.md#member)
+ - `/member` - [🎎 Карточка участника](../organ/members.md#member)
  
  - `/uprank` - [🔼 Поднять ранг](../organ/members.md#rank)
  
@@ -45,6 +48,12 @@
 
 
  - `/stats` - [📊 Получить статистику](../another/base.md#stats)
+ 
+ - `/user` - [👤 Получить карточку пользователя](../another/base.md#user)
+ 
+ - `/users` - [👥 Просмотреть список пользователей](../another/base.md#users)
+ 
+ - `/deleteuser` - [🗑️ Запросить удаление аккаунта](../another/base.md#deleteuser)
  
  - `/help` - [📚 Получить справку](../another/base.md#help)
  
