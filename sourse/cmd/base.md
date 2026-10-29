@@ -4,11 +4,11 @@
  - `/menu` - [🧭 Открыть главное меню](../another/base.md#menu)
 
 
- - `/drink {название пути}` - [🧪 Выпить зелье указанного пути](../beyonder/base.md#drink)
+ - `/drink` - [🧪 Выбрать путь для становления потусторонним ](../beyonder/base.md#drink)
  
  - `/beyonder` - [🧪 Карточка потустороннего](../beyonder/base.md#info)
  
- - `/upseq` - [🔝 Продвинуться](../beyonder/base.md#upseq)
+ - `/upseq` - [🔝 Продвинуться и выбрать путь для перехода](../beyonder/base.md#upseq)
  
  - `/time` - [⌛ Узнать дату продвижения](../beyonder/base.md#upseq)
  
