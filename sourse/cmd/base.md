@@ -45,15 +45,16 @@
  - `/ga` - [📜 Информация о ВД](../beyonder/wiki.md#ga)
  
 
+ - `/question` - [❔ Викторина](../question/base.md)
 
 
- - `/stats` - [📊 Получить статистику](../another/base.md#stats)
- 
  - `/user` - [👤 Получить карточку пользователя](../another/base.md#user)
  
  - `/users` - [👥 Просмотреть список пользователей](../another/base.md#users)
  
  - `/deleteuser` - [🗑️ Запросить удаление аккаунта](../another/base.md#deleteuser)
+ 
+ - `/stats` - [📊 Получить статистику](../another/base.md#stats)
  
  - `/help` - [📚 Получить справку](../another/base.md#help)
  

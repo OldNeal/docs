@@ -20,8 +20,12 @@ nav:
     - ✒️ Для редакторов: newspaper/editors.md
     - 📝 Для авторов: newspaper/author.md
     - 🗞 Для читателей: newspaper/readers.md
+  - ❔ Викторина: question/base.md
   - 🔰 Другое: another/base.md
   - 📟 Команды: cmd/base.md
+  - ⚖️ Документы:
+    - 🔒 Политика конфиденциальности: documents/privacy.md
+    - 📄 Пользовательское соглашение: documents/terms.md
   - 🎉 Новая версия: version.md
 
 theme:
